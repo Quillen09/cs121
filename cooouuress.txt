@@ -1,0 +1,5 @@
+Courses Credits Score
+CS1900 4 99
+CS520 4 88
+ART134 3 98
+CS192 5 78

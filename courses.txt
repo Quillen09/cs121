@@ -1,0 +1,5 @@
+Courses Credits Score
+CS121 4 99
+CS120 4 88
+Eng134 3 98
+CS122 5 78
